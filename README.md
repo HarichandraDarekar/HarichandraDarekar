@@ -8,7 +8,7 @@ I'm Haricandra and I am Java developer.
 
 ##  ⚡ Connect With Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-harichandradarekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harichandradarekar/)](https://www.linkedin.com/in/harichandradarekar/)
+[![Linkedin Badge](https://img.shields.io/badge/-harichandradarekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harichandra-darekar-2b3498202/)](https://www.linkedin.com/in/harichandra-darekar-2b3498202/)
 [![Instagram Badge](https://img.shields.io/badge/-darekarhari-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darekarhari/)](https://instagram.com/darekarhari)
 [![Github Badge](https://img.shields.io/badge/-HarichandraDarekar-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/HarichandraDarekar/)](https://github.com/HarichandraDarekar)
 
