@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hello there  👋, I'm Harichandra Darekar
 
-<!--
-**HarichandraDarekar/HarichandraDarekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Haricandra and I am Java developer.
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on personal project.
+* 👯 I’m looking for job oppertunity.
+* 📫 How to reach me:hrdarekar06@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  ⚡ Connect With Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-harichandradarekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harichandradarekar/)](https://www.linkedin.com/in/harichandradarekar/)
+[![Instagram Badge](https://img.shields.io/badge/-darekarhari-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darekarhari/)](https://instagram.com/darekarhari)
+[![Github Badge](https://img.shields.io/badge/-HarichandraDarekar-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/HarichandraDarekar/)](https://github.com/HarichandraDarekar)
+
+***
+
+## ⚡ Technology
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HarichandraDarekar&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarichandraDarekar&hide=TeX&layout=compact&theme=dark)
+
